@@ -1,0 +1,8 @@
+Hello, this is a sample text file.
+
+It contains multiple lines of text for testing purposes.
+- Line 1: Introduction
+- Line 2: Testing features like counting words and lines.
+- Line 3: Ensuring compatibility with file operations.
+
+Feel free to modify this file to suit your needs!
